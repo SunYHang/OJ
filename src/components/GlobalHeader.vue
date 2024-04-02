@@ -12,7 +12,7 @@
           disabled
         >
           <div class="title-bar">
-            <img class="logo" src="../assets/oj-logo.svg" />
+            <img class="logo" src="../assets/oj-logo.jpg" />
             <div class="title">鸡 OJ</div>
           </div>
         </a-menu-item>
